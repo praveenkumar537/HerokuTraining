@@ -1,5 +1,5 @@
 # springpeople
-code repo for heroku 
+code repo for heroku my clone
 
 <!--This Activator template gets you started building java app  -->
 
